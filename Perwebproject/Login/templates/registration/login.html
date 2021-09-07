@@ -1,0 +1,15 @@
+{%extends 'base.html'%}
+    {% block content%}
+        <div class="content-section">
+            <form method="POST">
+                {% csrf_token%}
+                    {{form.as_p}}
+                <div class ="form-group">
+                    <button type="submit">Login</button>
+                </div>
+            </form>
+            <div>
+                Don't have an account?<a href="{% url 'app-register'%}">Sign up</a>
+            </div>
+        </div>
+    {%endblock content%}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Apitest/Apiproject/.idea/Apiproject.iml" filepath="$PROJECT_DIR$/../../Apitest/Apiproject/.idea/Apiproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../loginproject/LoginTest/.idea/LoginTest.iml" filepath="$PROJECT_DIR$/../../loginproject/LoginTest/.idea/LoginTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Patient/PatientMonitering/.idea/PatientMonitering.iml" filepath="$PROJECT_DIR$/../../Patient/PatientMonitering/.idea/PatientMonitering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Perwebproject.iml" filepath="$PROJECT_DIR$/.idea/Perwebproject.iml" />
+      <module fileurl="file://C:/olib/.idea/olib.iml" filepath="C:/olib/.idea/olib.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+    {% block content%}
+        {%for sam in post%}
+
+        <p>By {{sam.author}} on {{sam.date_posted}}</p>
+
+        {%endfor%}
+    {%endblock content%}
